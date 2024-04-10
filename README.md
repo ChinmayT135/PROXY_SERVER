@@ -44,6 +44,6 @@ $ ./util_server
 # Note:
 - This code will only run on LINUX machine.
 
-I have referred to <a href = "https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient">Project</a> for my base code and further implementation.
+I have referred to <a href = "https://github.com/vaibhavnaagar/proxy-server">Project</a> for my base code and further implementation.
 
 #### Reviews if any from all the coding enthusiats are always welcomed !!
